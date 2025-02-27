@@ -1,0 +1,13 @@
+Title					Title of the Creation
+Creation				YY/NUM
+Repository				https://github.com/masterdot/masterdotCreations		
+License					This work is licensed under CC BY-NC-SA 4.0 
+						https://creativecommons.org/licenses/by-nc-sa/4.0/
+Classification			Woodwork/ Electronics/ Mechanics/ 3D Print
+Pitch					Short introduction for the Creation 200 Chars
+Description				A Short Description for the Creation 300 Words
+Detailed Description	No Limit
+Bill of Material		Maybe a List of needed Stuff
+Cost for Prototype		A Guess on the price a Prototype/ Realisation will cost
+Additional Files		Files related to this Creation
+Credits					References to this Creation
